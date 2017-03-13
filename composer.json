@@ -1,0 +1,14 @@
+{
+    "name": "gunting/testpackage",
+    "description": "test package",
+    "type": "composer-plugin",
+    "license": "none",
+    "authors": [
+        {
+            "name": "gunting",
+            "email": "guntingk@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
